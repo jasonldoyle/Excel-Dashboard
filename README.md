@@ -1,5 +1,7 @@
 ### Description
 
+Using Excel I was able to create a dynamic dashboard that shared insights into sales performance by coffee shop location. This can be used by stakeholders to make strategic decisions such as opening hours, product selection and more. The initial insights that I found from using the dashboard are found below as well as a screenshot of the dashboard. The link to view the excel file is below too.
+
 The objective of this project was to create a dashboard that provides insights by location, including:
 
 - **Transactions:**
